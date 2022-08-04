@@ -1,0 +1,1 @@
+A landing page example from the odin project 
